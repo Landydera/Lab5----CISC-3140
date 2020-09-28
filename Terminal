@@ -1,0 +1,19 @@
+[iderazin@sol30 ~]$ cat > LearnLinux
+This is the first homework using linux.
+Programing is fun and rewarding.
+I look forward to learn more.
+[iderazin@sol30 ~]$ cat LearnLinux
+This is the first homework using linux.
+Programing is fun and rewarding.
+I look forward to learn more.
+[iderazin@sol30 ~]$## To show the number of line:
+[iderazin@sol30 ~]$ wc -l LearnLinux
+3 LearnLinux
+[iderazin@sol30 ~]$## sorting in shell script
+[iderazin@sol30 ~]$ sort LearnLinux
+I look forward to learn more.
+Programing is fun and rewarding.
+This is the first homework using linux.
+[iderazin@sol30 ~]$
+
+
